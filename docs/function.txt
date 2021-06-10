@@ -10,4 +10,3 @@ Blog bejegyzés megjelölése kedvecként: A felhasznnló meg tudja jelölni ked
 Blog hírholyam: A felhasználó hozzáfér az elérhető blogok listájához amit olvasni szeretne
 Címkék használata: A felhasználó címkét tud adni a saját blogbejegyzéséhez, a könnyebb megtalálás érdekében
 Címkék folyam oldal: A felhasználó címkék szerint tudja megtalálni az aktuális érdeklődésű blog bejegyzéseit 
-
